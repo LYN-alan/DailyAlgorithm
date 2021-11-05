@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>有效的完全平方数</title>
+</head>
+<body>
+  <!-- 
+    github.com:
+
+    题目描述
+    给定一个 正整数 num ，编写一个函数，如果 num 是一个完全平方数，则返回 true ，否则返回 false 。
+    进阶：不要 使用任何内置的库函数，如  sqrt 。
+  -->
+  <script>
+    /**
+     * 解法，最简单的是使用内置的API Sqrt求出，
+     * 不使用内置API的话想到两种
+     * 第一种，暴力求解，通过循环来判断是否存在一个数字，它的平方等于目标数字
+     * 第二种，二分法求解，如果一个数是完全平方数，那它的平方根一定会在1-num/2之间，然后根据中间数平方的大小来
+     * 判断是向右查找，还是向左查找
+    */
+   // 第一种解法
+    function isPerfectSquare1(num){
+      for(let i = 0; i < num; i++){
+        if(i * i === num){
+          return true
+        }
+      }
+      return false
+    }
+    // 第二种解法
+    function isPerfectSquare2(num){
+      if(num === 0) return false
+      if(num === 1) return true
+      let begin = 1;
+      let end = Math.floor(num / 2)
+      while(begin <= end){
+        let mid = begin + Math.floor((end - begin) / 2)
+        let temp = mid * mid
+        if(temp === num){
+          return true
+        }else if(temp > num){
+          end = mid -1
+        }else{
+          begin = mid + 1
+        }
+      }
+      return false
+    }
+  </script>
+</body>
+</html>
