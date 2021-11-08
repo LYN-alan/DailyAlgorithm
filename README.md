@@ -23,5 +23,9 @@
 
 [leetCode每日算法 --- 598.范围求和 II](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/598.%E8%8C%83%E5%9B%B4%E6%B1%82%E5%92%8C)
 
+#### 2020-11-08
+
+[leetCode每日算法 --- 299.猜数字游戏](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/299.%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F)
+
 
 
