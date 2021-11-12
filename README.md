@@ -26,5 +26,8 @@
 #### 2020-11-10
 [leetCode每日算法 --- 495.提莫攻击](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/495.%E6%8F%90%E8%8E%AB%E6%94%BB%E5%87%BB)
 #### 2020-11-11
-[leetCode每日算法 --- 加一](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/%E5%8A%A0%E4%B8%80)
+[leetCode每日算法 --- 加一](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/%E5%8A%A0%E4%B8%80)       
 [移动零](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/%E7%A7%BB%E5%8A%A8%E9%9B%B6)
+#### 2020-11-12
+[leetCode每日算法 --- 两数之和](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)
+
