@@ -32,3 +32,5 @@
 [leetCode每日算法 --- 两数之和](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)
 #### 2020-11-13
 [leetCode每日算法 --- 检测大写字母](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/520.%20%E6%A3%80%E6%B5%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D)
+#### 2020-11-14
+[leetCode每日算法 --- 677.键值映射](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/677.%E9%94%AE%E5%80%BC%E6%98%A0%E5%B0%84)
