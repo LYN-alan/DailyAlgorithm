@@ -38,3 +38,5 @@
 [leetCode每日算法 --- 319.灯泡开关](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/319.%E7%81%AF%E6%B3%A1%E5%BC%80%E5%85%B3)
 #### 2020-11-18
 [leetCode每日算法 --- 563.二叉树的坡度](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6)
+#### 2020-11-19
+[leetCode每日算法 --- 397.证书替换](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/397.%E6%95%B4%E6%95%B0%E6%9B%BF%E6%8D%A2)
