@@ -40,3 +40,6 @@
 [leetCode每日算法 --- 563.二叉树的坡度](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6)
 #### 2020-11-19
 [leetCode每日算法 --- 397.整数替换](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/397.%E6%95%B4%E6%95%B0%E6%9B%BF%E6%8D%A2)
+#### 2020-11-20
+[leetCode每日算法 --- 594.最长和谐子序列](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/594.%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97)
+

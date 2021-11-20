@@ -47,7 +47,7 @@ var findLHS = function(nums) {
         hash.set(key, (hash.get(key) || 0) + 1)
     }
     let res = 0
-    // 第二次循环，找不到出现num值和num+1的key的最大值
+    // 第二次循环，找到出现num值和num+1的key的最大值
     for(const num of hash.keys()){
         if(hash.has(num + 1)){
             res = Math.max(res, hash.get(num) + hash.get(num + 1))
