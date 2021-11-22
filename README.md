@@ -44,3 +44,6 @@
 [leetCode每日算法 --- 594.最长和谐子序列](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/594.%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97)
 #### 2020-11-21
 [leetCode每日算法 --- 559.N 叉树的最大深度](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/559.N%20%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6)
+#### 2020-11-22
+[leetCode每日算法 --- 384.打乱数组](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/384.%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84)
+
