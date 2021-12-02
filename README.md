@@ -14,5 +14,6 @@
 > ------- 凯鲁亚克《在路上》
 ##### [2020年11月刷题记录](https://github.com/LYN-alan/DailyAlgorithm/tree/main/2021%E5%B9%B411%E6%9C%88/%E6%9C%88%E5%BA%A6%E5%88%B7%E9%A2%98%E6%B1%87%E6%80%BB)
 
+#### 2020-12-01
 
-
+#### leetCode每日算法 --- 1446. 连续字符
