@@ -13,7 +13,8 @@
 >
 > ------- 凯鲁亚克《在路上》
 ##### [2020年11月刷题记录](https://github.com/LYN-alan/DailyAlgorithm/tree/main/2021%E5%B9%B411%E6%9C%88/%E6%9C%88%E5%BA%A6%E5%88%B7%E9%A2%98%E6%B1%87%E6%80%BB)
+##### 2020-12-01
+[leetCode每日算法 --- 1446. 连续字符](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/1446.%20%E8%BF%9E%E7%BB%AD%E5%AD%97%E7%AC%A6)
+##### 2020-12-02
+[leetCode每日算法 --- 506. 相对名次](https://github.com/LYN-alan/DailyAlgorithm/tree/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95/506.%20%E7%9B%B8%E5%AF%B9%E5%90%8D%E6%AC%A1)
 
-#### 2020-12-01
-
-#### leetCode每日算法 --- 1446. 连续字符
